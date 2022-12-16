@@ -6,19 +6,21 @@ body {
   height: 100%;
   font-family: 'Maven Pro', sans-serif;
   margin: 0;
+  margin-bottom: 0px;
+  margin-bottom: 2rem;
+  overflow-x: hidden; 
 }
-a{
-    color: #a2cff7;
-text-decoration: none;
+a {
+  color: #a2cff7;
+  text-decoration: none;
 }
-td{
-    text-align: left;
-padding: .5rem 1rem;
-
+td {
+  text-align: left;
+  padding: 0.5rem 1rem;
 }
-th{
-    color: #d28e11;
+th {
+  color: #d28e11;
 }
-table{
-    border: 1px solid #576b71;
+table {
+  border: 1px solid #576b71;
 }
